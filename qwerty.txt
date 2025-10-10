@@ -1,0 +1,15 @@
+[kp-rwin]>[kp-ralt]
+[end]>[delete]
+[kp-end]>[kp-rwin]
+[delete]>[escape]
+[home]>[caps]
+[ralt]>[rwin]
+[kp-ralt]>[kp-rwin]
+[pup]>[lalt]
+[pdown]>[kp-ralt]
+[cbrack]>[=]
+[=]>[cbrack]
+{lshift}{up}>{-lshift}{pup}
+{rshift}{up}>{-rshift}{pup}
+{lshift}{down}>{-lshift}{pdown}
+{rshift}{down}>{-rshift}{pdown}
