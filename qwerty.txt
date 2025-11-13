@@ -2,7 +2,7 @@
 [end]>[delete]
 [kp-end]>[kp-rwin]
 [delete]>[escape]
-[home]>[caps]
+[home]>[pdown]
 [ralt]>[rwin]
 [kp-ralt]>[kp-rwin]
 [pup]>[lalt]
