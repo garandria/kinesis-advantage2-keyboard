@@ -5,3 +5,20 @@ Useful links
   https://kinesis-ergo.com/support/advantage2-non-us-versions/
 - Quickstart for european models (including azerty layout)
   https://kinesis-ergo.com/wp-content/uploads/QSG-EU-Adv2-v5-5-21.pdf
+
+Since I always forget it:
+* Power User Mode:
+
+  > 7.3 Power User Mode, “PUM” (progm + Shift + Esc)
+  >
+  > Before accessing any of the Power User Tools described below, it its first necessary to activate Power User
+  > Mode (PUM) on the keyboard using the onboard shortcut. To do this, press and hold the Program Key and
+  > the Shift Key, and then tap the Escape Key. All four LED indicator lights will flash four times to indicate when
+  > PUM has been activated, and two times to indicate when it has been deactivated. Note: When PUM is active,
+  > a new line on the Status Report will appears to indicate this. When it is inactive, it is not listed in the Status
+  > Report. If you attempt to activate one of the features below without having first activated PUM, nothing will
+  > happen. Once activated, PUM will stay active until it is manually deactivated or a Hard Reset is performed.
+
+ Page 24, https://kinesis-ergo.com/wp-content/uploads/Adv2-Users-Manual-US_6-22-21.pdf
+
+* Same link, Appendix 13.1 & 13.2 (page 37-38) for map key position
