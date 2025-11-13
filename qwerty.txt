@@ -9,7 +9,3 @@
 [pdown]>[kp-ralt]
 [cbrack]>[=]
 [=]>[cbrack]
-{lshift}{up}>{-lshift}{pup}
-{rshift}{up}>{-rshift}{pup}
-{lshift}{down}>{-lshift}{pdown}
-{rshift}{down}>{-rshift}{pdown}
