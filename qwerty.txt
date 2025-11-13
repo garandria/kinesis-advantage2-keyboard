@@ -5,6 +5,8 @@
 [home]>[pdown]
 [ralt]>[rwin]
 [kp-ralt]>[kp-rwin]
+[pup]>[lalt]
+[lalt]>[pup]
 [pdown]>[kp-ralt]
 [']>[=]
 [cbrack]>[']
